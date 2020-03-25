@@ -1,0 +1,6 @@
+git上传本地单独修改的文件
+gIt add <file>
+
+git commit <file> -m"your comment"
+
+git push
